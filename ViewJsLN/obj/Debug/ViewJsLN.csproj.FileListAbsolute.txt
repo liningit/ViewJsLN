@@ -1,0 +1,358 @@
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.dll.config
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.pkgdef
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.vsix
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\extension.vsixmanifest
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE100.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE80.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE90.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\stdole.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE90a.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\VSPackage.resources
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\ViewJsPackage.cto
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\VSCT.read.1.tlog
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\VSCT.write.1.tlog
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\CtoResourceMerger.cache
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\VSPackage.resources.original
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.dll
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.pdb
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.pkgdef
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.latest.pkgdef
+C:\Users\Administrator\source\repos\ViewJsLN\ViewJsLN\obj\Debug\extension.vsixmanifest
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.dll.config
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.pkgdef
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.vsix
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\extension.vsixmanifest
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE100.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE80.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE90.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Validation.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\stdole.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE90a.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.MSXML.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Validation.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csprojResolveAssemblyReference.cache
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSPackage.resources
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csproj.GenerateResource.Cache
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsPackage.cto
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSCT.read.1.tlog
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSCT.write.1.tlog
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\CtoResourceMerger.cache
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSPackage.resources.original
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csproj.CoreCompileInputs.cache
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.dll
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.pdb
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.pkgdef
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.latest.pkgdef
+D:\repos\FutureStore\Malls\tools\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\extension.vsixmanifest
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.dll.config
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.pkgdef
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.vsix
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\extension.vsixmanifest
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE100.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE80.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE90.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Threading.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Validation.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\stdole.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE90a.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.MSXML.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Threading.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Validation.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csprojAssemblyReference.cache
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSPackage.resources
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csproj.GenerateResource.cache
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsPackage.cto
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSCT.read.1.tlog
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSCT.write.1.tlog
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\CtoResourceMerger.cache
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSPackage.resources.original
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csproj.CoreCompileInputs.cache
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csproj.CopyComplete
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.dll
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.pdb
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.pkgdef
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.latest.pkgdef
+D:\WeiXin\WeChat Files\lining_it\FileStorage\File\2019-03\JSView互跳(1)\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\extension.vsixmanifest
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.dll.config
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.pkgdef
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ViewJsLN.vsix
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\extension.vsixmanifest
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE100.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE80.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE90.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Threading.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Validation.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\stdole.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\EnvDTE90a.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.MSXML.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Threading.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Validation.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSPackage.resources
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csproj.GenerateResource.cache
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsPackage.cto
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSCT.read.1.tlog
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSCT.write.1.tlog
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\CtoResourceMerger.cache
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\VSPackage.resources.original
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csproj.CoreCompileInputs.cache
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csproj.CopyComplete
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.dll
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.pdb
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.pkgdef
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.latest.pkgdef
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\extension.vsixmanifest
+E:\Workspaces\net\文件\JSView互跳\JSView互跳\ViewJsLN\ViewJsLN\obj\Debug\ViewJsLN.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewJsLN", "ViewJsLN\ViewJsLN.csproj", "{2A55E734-6E53-4084-ACEC-DA0B066A8C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A55E734-6E53-4084-ACEC-DA0B066A8C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A55E734-6E53-4084-ACEC-DA0B066A8C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A55E734-6E53-4084-ACEC-DA0B066A8C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A55E734-6E53-4084-ACEC-DA0B066A8C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C490053-A08F-446F-A63D-487FE5818DF7}
+	EndGlobalSection
+EndGlobal
