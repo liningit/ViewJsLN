@@ -4,9 +4,8 @@ using System.ComponentModel.Design;
 using System.Globalization;
 using System.IO;
 using System.Text.RegularExpressions;
+using System.Xml.Serialization;
 using Microsoft.VisualStudio.Shell;
-using Microsoft.VisualStudio.Shell.Interop;
-
 
 namespace ViewJsLN
 {
@@ -20,6 +19,7 @@ namespace ViewJsLN
         /// Command ID.
         /// </summary>
         public const int CommandId = 0x0100;
+        public const int CommandConfigId = 0x0101;
 
         /// <summary>
         /// Command menu group (command set GUID).
@@ -31,27 +31,58 @@ namespace ViewJsLN
         /// </summary>
         private readonly Package package;
 
+        public static ViewJsConfig Config { get; set; }
         /// <summary>
         /// Initializes a new instance of the <see cref="ViewJs"/> class.
         /// Adds our command handlers for menu (commands must exist in the command table file)
         /// </summary>
         /// <param name="package">Owner package, not null.</param>
+
         private ViewJs(Package package)
         {
-            if (package == null)
-            {
-                throw new ArgumentNullException("package");
-            }
-
-            this.package = package;
-
+            this.package = package ?? throw new ArgumentNullException("package");
             OleMenuCommandService commandService = this.ServiceProvider.GetService(typeof(IMenuCommandService)) as OleMenuCommandService;
             if (commandService != null)
             {
                 var menuCommandID = new CommandID(CommandSet, CommandId);
                 var menuItem = new MenuCommand(this.MenuItemCallback, menuCommandID);
                 commandService.AddCommand(menuItem);
+                var menuCommandConfigID = new CommandID(CommandSet, CommandConfigId);
+                var menuConfigItem = new MenuCommand(this.ConfigmSetCallback, menuCommandConfigID);
+                commandService.AddCommand(menuConfigItem);
             }
+
+            var path = System.Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\viewjs";
+            Directory.CreateDirectory(path);
+            var configFile = path + "\\viewjs" + CommandSet + ".config";
+            XmlSerializer xml = new XmlSerializer(typeof(ViewJsConfig));
+            if (!File.Exists(configFile))
+            {
+                Config = new ViewJsConfig();
+                using (MemoryStream stream = new MemoryStream())
+                {
+
+                    xml.Serialize(stream, Config);
+                    stream.Position = 0;
+                    using (StreamReader sr = new StreamReader(stream))
+                    {
+                        File.WriteAllText(configFile, sr.ReadToEnd());
+                    }
+                }
+
+            }
+            else
+            {
+                using (var s = new FileStream(configFile, FileMode.Open))
+                {
+                    Config = xml.Deserialize(s) as ViewJsConfig;
+                }
+            }
+        }
+
+        private void ConfigmSetCallback(object sender, EventArgs e)
+        {
+            new ConfigSet().ShowDialog();
         }
 
         /// <summary>
@@ -80,6 +111,7 @@ namespace ViewJsLN
         /// <param name="package">Owner package, not null.</param>
         public static void Initialize(Package package)
         {
+
             Instance = new ViewJs(package);
         }
 
@@ -99,13 +131,13 @@ namespace ViewJsLN
                 var file = _applicationObject.ActiveDocument;
                 string opFile = string.Empty;
                 var fullName = file.FullName.ToLower();
-                if (fullName.EndsWith(".cshtml"))
+                if (fullName.EndsWith(Config.ViewsSuffix))
                 {
-                    opFile = fullName.Replace(@"\views\", @"\scripts\biz\").Replace(".cshtml", ".js");
+                    opFile = fullName.Replace(Config.ShortcutViews, Config.ShortcutScripts).Replace(Config.ViewsSuffix, ".js");
                 }
                 else if (fullName.EndsWith(".js"))
                 {
-                    opFile = fullName.Replace(@"\scripts\biz\", @"\views\").Replace(".js", ".cshtml");
+                    opFile = fullName.Replace(Config.ShortcutScripts, Config.ShortcutViews).Replace(".js", Config.ViewsSuffix);
                 }
                 if (!string.IsNullOrEmpty(opFile))
                 {
@@ -115,7 +147,7 @@ namespace ViewJsLN
                         {
                             var strContent = new System.IO.StreamReader(fullName).ReadToEnd().ToLower();
                             List<string> lst = new List<string>();
-                            var r = Regex.Matches(strContent, "/Scripts/(.*)".ToLower());
+                            var r = Regex.Matches(strContent, Config.ScriptsRegex.ToLower());
                             foreach (Match item in r)
                             {
                                 var fileName = item.Value;

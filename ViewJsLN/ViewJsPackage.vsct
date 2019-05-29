@@ -59,6 +59,13 @@
           <ButtonText>ViewJs</ButtonText>
         </Strings>
       </Button>
+      <Button guid="guidViewJsPackageCmdSet" id="ViewJsConfigId" priority="0x0101" type="Button">
+        <Parent guid="guidViewJsPackageCmdSet" id="MyMenuGroup" />
+        <Icon guid="guidImages" id="bmpPic1" />
+        <Strings>
+          <ButtonText>ViewJs Config</ButtonText>
+        </Strings>
+      </Button>
     </Buttons>
 
     <!--The bitmaps section is used to define the bitmaps that are used for the commands.-->
@@ -80,6 +87,7 @@
     <GuidSymbol name="guidViewJsPackageCmdSet" value="{9c6339b4-f67e-4885-a3b9-31aa1115f2c3}">
       <IDSymbol name="MyMenuGroup" value="0x1020" />
       <IDSymbol name="ViewJsId" value="0x0100" />
+      <IDSymbol name="ViewJsConfigId" value="0x0101" />
     </GuidSymbol>
 
     <GuidSymbol name="guidImages" value="{43ea7269-923b-4a2e-86dc-a24fa5d5e5f8}" >
