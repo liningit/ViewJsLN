@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.ComponentModel.Design;
 using System.Globalization;
 using System.IO;
+using System.Linq;
 using System.Text.RegularExpressions;
 using System.Xml.Serialization;
+using EnvDTE;
 using Microsoft.VisualStudio.Shell;
 
 namespace ViewJsLN
@@ -32,6 +34,7 @@ namespace ViewJsLN
         private readonly Package package;
 
         public static ViewJsConfig Config { get; set; }
+        public static string ConfigPath { get; set; }
         /// <summary>
         /// Initializes a new instance of the <see cref="ViewJs"/> class.
         /// Adds our command handlers for menu (commands must exist in the command table file)
@@ -51,37 +54,51 @@ namespace ViewJsLN
                 var menuConfigItem = new MenuCommand(this.ConfigmSetCallback, menuCommandConfigID);
                 commandService.AddCommand(menuConfigItem);
             }
-
+        }
+        private DTE InitConfig()
+        {
+            var _applicationObject = this.ServiceProvider.GetService(typeof(EnvDTE.DTE)) as EnvDTE.DTE;
             var path = System.Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + "\\viewjs";
-            Directory.CreateDirectory(path);
-            var configFile = path + "\\viewjs" + CommandSet + ".config";
-            XmlSerializer xml = new XmlSerializer(typeof(ViewJsConfig));
-            if (!File.Exists(configFile))
-            {
-                Config = new ViewJsConfig();
-                using (MemoryStream stream = new MemoryStream())
-                {
 
-                    xml.Serialize(stream, Config);
-                    stream.Position = 0;
-                    using (StreamReader sr = new StreamReader(stream))
+            var configFile = path + "\\viewjs" + new FileInfo(_applicationObject.Solution.FileName).Name + CommandSet + ".config";
+            if (ConfigPath != configFile || !File.Exists(ConfigPath))
+            {
+                if (!Directory.Exists(path))
+                {
+                    Directory.CreateDirectory(path);
+                }
+                ConfigPath = configFile;
+                XmlSerializer xml = new XmlSerializer(typeof(ViewJsConfig));
+                if (!File.Exists(configFile))
+                {
+                    Config = new ViewJsConfig();
+                    using (MemoryStream stream = new MemoryStream())
                     {
-                        File.WriteAllText(configFile, sr.ReadToEnd());
+
+                        xml.Serialize(stream, Config);
+                        stream.Position = 0;
+                        using (StreamReader sr = new StreamReader(stream))
+                        {
+                            File.WriteAllText(configFile, sr.ReadToEnd());
+                        }
+                    }
+
+                }
+                else
+                {
+                    using (var s = new FileStream(configFile, FileMode.Open))
+                    {
+                        Config = xml.Deserialize(s) as ViewJsConfig;
                     }
                 }
-
             }
-            else
-            {
-                using (var s = new FileStream(configFile, FileMode.Open))
-                {
-                    Config = xml.Deserialize(s) as ViewJsConfig;
-                }
-            }
+            return _applicationObject;
         }
+
 
         private void ConfigmSetCallback(object sender, EventArgs e)
         {
+            InitConfig();
             new ConfigSet().ShowDialog();
         }
 
@@ -126,24 +143,29 @@ namespace ViewJsLN
         {
             try
             {
+                DTE _applicationObject = InitConfig();
 
-                var _applicationObject = this.ServiceProvider.GetService(typeof(EnvDTE.DTE)) as EnvDTE.DTE;
                 var file = _applicationObject.ActiveDocument;
+                var directory = new FileInfo(_applicationObject.ActiveDocument.ProjectItem.ContainingProject.FileName).Directory.FullName;
                 string opFile = string.Empty;
                 var fullName = file.FullName.ToLower();
                 if (fullName.EndsWith(Config.ViewsSuffix))
                 {
-                    opFile = fullName.Replace(Config.ShortcutViews, Config.ShortcutScripts).Replace(Config.ViewsSuffix, ".js");
+                    opFile = fullName.Replace(Config.ShortcutViews, Config.ShortcutScripts).Replace(Config.ViewsSuffix, ".js").Replace(@"\views\", @"\");
                 }
                 else if (fullName.EndsWith(".js"))
                 {
                     opFile = fullName.Replace(Config.ShortcutScripts, Config.ShortcutViews).Replace(".js", Config.ViewsSuffix);
+                    var fs = opFile.Split('\\').ToList();
+                    var index = fs.LastIndexOf("areas");
+                    fs.Insert(index + 2, "views");
+                    opFile = string.Join("\\", fs);
                 }
                 if (!string.IsNullOrEmpty(opFile))
                 {
                     if (!File.Exists(opFile))
                     {
-                        if (fullName.EndsWith(".cshtml"))
+                        if (fullName.EndsWith(Config.ViewsSuffix))
                         {
                             var strContent = new System.IO.StreamReader(fullName).ReadToEnd().ToLower();
                             List<string> lst = new List<string>();
@@ -151,6 +173,7 @@ namespace ViewJsLN
                             foreach (Match item in r)
                             {
                                 var fileName = item.Value;
+                                fileName = fileName.Replace("\"", "").Replace("'", "");
                                 fileName = fileName.Substring(0, fileName.IndexOf(".js") + 3);
                                 lst.Add(fileName);
                             }
@@ -172,8 +195,8 @@ namespace ViewJsLN
                             if (!string.IsNullOrEmpty(selItem))
                             {
 
-                                var p = fullName.Substring(0, fullName.LastIndexOf(@"\views\"));
-                                opFile = p + "/" + selItem;
+
+                                opFile = directory + "/wwwroot/" + selItem;
                                 if (File.Exists(opFile))
                                 {
                                     opFile = new FileInfo(opFile).FullName.ToLower();
@@ -197,9 +220,11 @@ namespace ViewJsLN
                     }
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
             }
         }
+
+
     }
 }
